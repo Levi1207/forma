@@ -293,7 +293,7 @@
     width: 20%;
 }
 .main__info-text {
-    text-align: start;
+    text-align: center;
 }
 .data{
     display: flex;
